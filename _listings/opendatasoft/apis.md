@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2716-opend
 x-kinRank: "7"
 x-alexaRank: "323884"
 tags: OpenDataSoft
-created: "2018-06-25"
-modified: "2018-06-25"
+created: "2018-06-26"
+modified: "2018-06-26"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/opendatasoft/master/_listings/opendatasoft/apis.md
 specificationVersion: "0.14"
 apis:
