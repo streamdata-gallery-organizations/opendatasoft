@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - OpenDataSoft",
+	"description": "This is a repository of opendatasoft APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/opendatasoft.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://opendatasoft.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "OpenDataSoft",
+			"x-api-slug": "opendatasoft",
+			"description": "OpenDataSoft is a cloud-based turnkey platform for data publishing and API management. Its interface is intuitively designed to empower anyone, regardless of technical skills, to upload easy-to-understand Open Data, or to even share data within an admi...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2716-opendatasoft.jpg",
+			"humanURL": "http://opendatasoft.com",
+			"baseURL": "https://public.opendatasoft.com//api/v2",
+			"tags": "OpenDataSoft",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/opendatasoft/master/_listings/opendatasoft/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "OpenDataSoft",
+	"include": [
+		{
+			"name": "OpenDataSoft",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/opendatasoft/master/_listings/opendatasoft/apis.yaml"
+		}
+	]
+}
